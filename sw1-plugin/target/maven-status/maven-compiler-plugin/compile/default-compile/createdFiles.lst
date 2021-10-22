@@ -1,0 +1,6 @@
+com/apm/plugin/string/replace/StringReplaceInterceptor.class
+com/apm/plugin/string/replace/define/StringReplaceInstrumentation$1.class
+com/apm/plugin/string/service/SwService1Interceptor.class
+com/apm/plugin/string/replace/define/StringReplaceInstrumentation.class
+com/apm/plugin/string/service/define/SwService1Instrumentation$1.class
+com/apm/plugin/string/service/define/SwService1Instrumentation.class
