@@ -7,11 +7,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="sw1-plugin" />
+        <module name="loan-venus-plugin" />
         <module name="sw2-plugin" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="apm-string-replace-plugin" target="1.8" />
+      <module name="venus-phone-check-plugin" target="1.8" />
+      <module name="venus-phonecheck-plugin" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

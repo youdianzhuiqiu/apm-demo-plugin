@@ -1,2 +1,0 @@
-replace=com.apm.plugin.string.replace.define.StringReplaceInstrumentation
-sw=com.apm.plugin.string.service.define.SwService1Instrumentation

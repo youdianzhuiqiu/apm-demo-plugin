@@ -11,6 +11,7 @@
     <modules>
         <module>sw1-plugin</module>
         <module>sw2-plugin</module>
+        <module>loan-venus-plugin</module>
     </modules>
 
     <properties>
@@ -42,6 +43,11 @@
             <artifactId>apm-test-tools</artifactId>
             <version>${skywalking.version}</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>net.bytebuddy</groupId>
+            <artifactId>byte-buddy</artifactId>
+            <version>1.10.22</version>
         </dependency>
     </dependencies>
 
